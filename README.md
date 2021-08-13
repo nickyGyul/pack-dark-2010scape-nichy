@@ -1,13 +1,21 @@
 # Dark Vanilla (by Nichy)
 
-![icon](https://user-images.githubusercontent.com/72536899/128579592-930248d2-0f29-476f-be2a-c086188c5f06.png)
+![icon](https://user-images.githubusercontent.com/72536899/129302562-0be334aa-784f-4331-8b1c-b5f206d58e68.png)
 
-The ideal (and hopefully final) dark theme for OSRS.
+Dark mode 2010scape UI. 
 
-The old Dark mode resource packs on the hub are many versions out of date so I went and fixed them and tweaked some things to make it more vanilla-like. Basically updated it for Combat Achievements, changed the XP drops button and made the Arceuus spellbook appear consistent compared to the other spellbooks. Also fixed the settings UI. Other packs made before 1.4.0 seemingly have their sliders broken.
+There is a work around to make the Interface Styles plugin (i.e. High detail, High detail health bars)  to work with this Resource pack.
+1. First you must diable **both** the Interface Styles plugin and the Resource packs plugin. 
+2. Then in the Inferfaces Styles plugin, make sure  `Gameframe` is set to `Default`.
+3. Now, turn on the the Interface Styles plugin **first** and then the Resource packs plugin **second**. 
 
+If it somehow bugs out and your interface looks messed up just repeat the above steps.
+
+Note: Due to limitations of how the game's interfaces work (and by extension the plugin), some icons cannot be lined up perfectly in Fixed mode and Classic Resizable mode I reccomend playing with `Resizable - Modern layout` for the best experience. If something looks off or misaligned, odds are it can't be fixed. I tried my best to make the pack be at least on par with the Interface Styles plugin.
+ 
 ## Resizable mode
-![image](https://user-images.githubusercontent.com/72536899/128579737-2a5c0010-1793-4de1-b18d-beb5054edcb2.png)
+![image](https://user-images.githubusercontent.com/72536899/129302666-ef8f83c6-e0bf-4da4-a591-a9ac453e4d11.png)
+
 
 ## Fixed mode
-![image](https://user-images.githubusercontent.com/72536899/128579754-a5a6fbb4-ab86-4958-88a7-539eae98fe91.png)
+![image](https://user-images.githubusercontent.com/72536899/129302717-96fd40db-09d7-4a4b-bec6-23a9740e69d9.png)
