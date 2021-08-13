@@ -4,8 +4,8 @@
 
 Dark mode 2010scape UI. 
 
-There is a work around to make the Interface Styles plugin (i.e. High detail, High detail health bars)  to work with this Resource pack.
-1. First you must diable **both** the Interface Styles plugin and the Resource packs plugin. 
+Here is how to make the Interface Styles plugin (i.e. High detail menu, High detail health bars) to work with this Resource pack.
+1. First disable **both** the Interface Styles plugin and the Resource packs plugin. 
 2. Then in the Inferfaces Styles plugin, make sure  `Gameframe` is set to `Default`.
 3. Now, turn on the the Interface Styles plugin **first** and then the Resource packs plugin **second**. 
 
