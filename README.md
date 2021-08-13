@@ -1,4 +1,4 @@
-# Dark Vanilla (by Nichy)
+# Dark 2010scape (by Nichy)
 
 ![icon](https://user-images.githubusercontent.com/72536899/129302562-0be334aa-784f-4331-8b1c-b5f206d58e68.png)
 
