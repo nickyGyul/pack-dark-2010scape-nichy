@@ -14,8 +14,8 @@ If it somehow bugs out and your interface looks messed up just repeat the above 
 Note: Due to limitations of how the game's interfaces work (and by extension the plugin), some icons cannot be lined up perfectly in Fixed mode and Classic Resizable mode. I reccomend playing with `Resizable - Modern layout` for the best experience. If something looks off or misaligned, odds are it can't be fixed. I tried my best to make the pack be at least on par with the Interface Styles plugin.
  
 ## Resizable mode
-![image](https://user-images.githubusercontent.com/72536899/129302666-ef8f83c6-e0bf-4da4-a591-a9ac453e4d11.png)
+![image](https://user-images.githubusercontent.com/72536899/129609669-7f6eb103-3846-4d79-a638-d6bf7005bd21.png)
 
 
 ## Fixed mode
-![image](https://user-images.githubusercontent.com/72536899/129302717-96fd40db-09d7-4a4b-bec6-23a9740e69d9.png)
+![image](https://user-images.githubusercontent.com/72536899/129609706-f1d90c01-74e7-4e8a-a509-e35a02a6138e.png)
