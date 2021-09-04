@@ -11,7 +11,11 @@ Here is how to make the Interface Styles plugin (i.e. High detail menu, High det
 
 If it somehow bugs out and your interface looks messed up just repeat the above steps.
 
-Note: Due to limitations of how the game's interfaces work (and by extension the plugin), some icons cannot be lined up perfectly in Fixed mode and Classic Resizable mode. I reccomend playing with `Resizable - Modern layout` for the best experience. If something looks off or misaligned, odds are it can't be fixed. I tried my best to make the pack be at least on par with the Interface Styles plugin.
+Here is a dark RS3 cursor to go with the pack. Save the following image as `cursor.png` and then put it in your `.runelite` folder. Then enable the `Custom Cursor` plugin and select `Custom Image` as your Cursor.
+
+![cursor](https://user-images.githubusercontent.com/72536899/130874359-ad4ffda9-5d09-40b5-8b61-2100f7fbb86a.png)
+
+Note: Some icons cannot be lined up perfectly in Fixed mode and Classic Resizable mode. I reccomend playing with `Resizable - Modern layout` for the best experience. If something looks off or misaligned, odds are it can't be fixed. I tried my best to make the pack be at least on par with the Interface Styles plugin.
  
 ## Resizable mode
 ![image](https://user-images.githubusercontent.com/72536899/130370139-70d58fa4-0680-45d3-ac06-7f0f68c45ca4.png)
